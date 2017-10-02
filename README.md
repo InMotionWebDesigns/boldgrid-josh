@@ -1,3 +1,4 @@
+I ADDED THIS
 # Cobalt
 - Contributors: ajda99, ciscorey, JimiRadabaugh, rramo012, timph
 - Tags: custom-background, custom-colors, custom-menu, editor-style, responsive-layout, rtl-language-support, translation-ready, boldgrid-theme-99
