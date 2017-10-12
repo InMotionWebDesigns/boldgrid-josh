@@ -108,8 +108,8 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 				'#00ff00',
 				'#000000',
 				'#00ff00',
-				'#000000',
-				'#2d2f41',
+				'#000',
+				'#fff',
 			),
 		),
 	);
