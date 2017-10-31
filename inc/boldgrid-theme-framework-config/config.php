@@ -1,4 +1,4 @@
-<?php
+ <?php
 function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 	/**
 	 * General Configs
@@ -103,13 +103,13 @@ function boldgrid_theme_framework_config( $boldgrid_framework_configs ) {
 		),
 		array(
 			'format' => 'palette-primary',
-			'neutral-color' => '#12131a',
+			'neutral-color' => '#ffffff',
 			'colors' => array(
-				'#03c9a9',
-				'#544359',
-				'#544359',
-				'#03c9a9',
-				'#2d2f41',
+				'#00ff00',
+				'#000000',
+				'#00ff00',
+				'#000',
+				'#fff',
 			),
 		),
 	);
